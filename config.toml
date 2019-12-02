@@ -1,4 +1,4 @@
-baseURL = "https://inhs.web.id/"
+baseURL = "https://www.inhs.web.id/"
 languageCode = "en-us"
 title = "inhs"
 theme = "hyde"
