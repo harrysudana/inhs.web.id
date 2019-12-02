@@ -1,12 +1,12 @@
 ---
-title: "Brew Update Php Default Ke Versi 7 4"
+title: "Brew Update PHP Default Ke Versi 7.4"
 date: 2019-12-02T23:39:54+08:00
 draft: false
 ---
 
 Setelah melakukan update dan upgrade brew, tiba-tiba CMS yang berbasiskan OctoberCMS gagal untuk berjalan sempurna.
 
-![error-ocotbercms-pada-php74](img/error-ocotbercms-pada-php74.png)
+![error-ocotbercms-pada-php74](/img/error-ocotbercms-pada-php74.png)
 
 Belum sempat review untuk update code terbaru dari team OctoberCMS, akhirnya coba kita install php versi 7.3 kembali.
 
