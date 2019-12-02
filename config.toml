@@ -1,3 +1,15 @@
-baseURL = "http://example.org/"
+baseURL = "https://inhs.web.id/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "inhs"
+theme = "hyde"
+
+[Menus]
+  main = [
+      {Name = "Github", URL = "https://github.com/harrysudana/"},
+      {Name = "LinkedIn", URL = "https://www.linkedin.com/in/harrysudana/"}
+  ]
+  
+[params]
+  layoutReverse = true
+  description = "This is personal website's I Nyoman Harry Sudana - Househusband that Write a Code - who live in Badung, Bali, Indonesia"
+  themeColor = "theme-base-0f"
