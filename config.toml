@@ -1,6 +1,6 @@
 baseURL = "https://www.inhs.web.id/"
 languageCode = "en-us"
-title = "inhs"
+title = "I Nyoman Harry Sudana : Personal Website"
 theme = "hyde"
 
 [Menus]
