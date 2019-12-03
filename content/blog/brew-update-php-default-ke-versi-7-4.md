@@ -2,7 +2,7 @@
 title: "Brew Update PHP Default Ke Versi 7.4"
 date: 2019-12-02T23:39:54+08:00
 draft: false
-Tags: ["OctoberCMS", "PHP"]
+Tags: ["macOS", "PHP"]
 ---
 
 Setelah melakukan update dan upgrade brew, tiba-tiba CMS yang berbasiskan OctoberCMS gagal untuk berjalan sempurna.
